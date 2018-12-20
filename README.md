@@ -10,6 +10,7 @@ Because of this we first created a Loan Calculator which is able to do simple lo
 Sikder Rakinuzzaman <br>
 
 **Tools Used**:<br>
+
     1. Visual Studio 2017
     2. NUnit
     3. Boostrap 4
@@ -17,11 +18,13 @@ Sikder Rakinuzzaman <br>
     5. ASP.NET Web Forms
 
 **Directory Details**:<br>
+
     - ~/LoanCalculatorProject : Contains the actual asp.net web form project.
     - ~/ScreenShots : Contains the Screenshot of the UI's.
     - Project Rerpot For SQA(CSE435) : Is the final report which contains the test cases and the traceability matrix.
 
 **How to run test cases?**:<br>
+
     1.Click Solution and Open the project in the VS.
     2. If "Test Explorer" not open then click "Test">"Windows">"Test Explorer".
     3. Click "Run All" in the "Test Explorer" window.
